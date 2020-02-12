@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 * Activate the virtual environment
 ```commandline
-source venv/bin/python
+source venv/bin/activate
 ```
 
 * Deactivate
